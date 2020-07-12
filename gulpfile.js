@@ -31,7 +31,7 @@
 // ================================
 //подключаемые файлы подчеркиваем _index.html
 let project_folder ="public"; //require("path").basename(__dirname); 
-let source_folder = "#src";
+let source_folder = "src";
 
 let fs = require('fs')  //подключение шрифтов к файлам стилей
 
